@@ -19,7 +19,8 @@ So I choosed my own SMP's website and redesigned it. It's a responsive website m
 ![blazeesmp.ml Screenshot](https://media.discordapp.net/attachments/948550180951687179/953895373775179796/preview.PNG?width=879&height=427)
 
 ### Developers:
-[NotVexPro!37107 - Plex Development](https://dsc.gg/manloje)
+[NotVexPro!7107 - Plex Development](https://dsc.gg/manloje)
+[ManLoJe#0001 - Plex Development](https://dsc.gg/manloje)
 
 ### Fork on Replit
 Coming Soon!
